@@ -4,7 +4,7 @@ This repository contains a number of different tutorials by XAI Proeject.
 
 1. [LRP-Time-Series Tutorial](https://github.com/OpenXAIProject/tutorials/tree/master/LRP-Time-Series) : Explaining Time Series Deep Learning Models with Layer-wise Relevance Propagation
 
-2. Visual-Explanation-of-Atari : Visual Interpretation of Deep Reinforcement Learning for Atrai Games
+2. [Visual-Explanation-of-Atari](https://github.com/OpenXAIProject/tutorials/tree/master/Visual-Explanation-of-Atari) : Visual Interpretation of Deep Reinforcement Learning for Atrai Games
 
 
 ## License
