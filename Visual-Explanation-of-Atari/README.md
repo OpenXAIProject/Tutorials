@@ -33,7 +33,7 @@ $ python main.py -m critic -e BreakoutDeterministic-v0 --first_frame 350 --num_f
 [Apache License 2.0](https://github.com/OpenXAIProject/LRP-Time-Series/blob/master/LICENSE "Apache")
 
 ## Contacts
-If you have any question, please contact Xie Qin(xieqin856@unist.ac.kr) and/or Sohee Cho(shcho@unist.ac.kr).
+If you have any question, please contact Kyowoon Lee(leekwoon@unist.ac.kr) and/or Sohee Cho(shcho@unist.ac.kr).
 
 <br /> 
 <br />
