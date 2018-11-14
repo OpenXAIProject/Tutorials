@@ -27,11 +27,11 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
 + N-channels: the # of channels in the layer (# of channels in input is the # of measurements)ties: 
 + There are 6 classes of activities: walking, walking upstairs, walking downstairs, sitting standing, laying
 <p align="center"> 
-<img src="https://github.com/OpenXAIProject/LRP-Time-Series/blob/master/model.jpg" width="600">
+<img src="https://github.com/OpenXAIProject/tutorials/blob/master/LRP-Time-Series/model.jpg" width="600">
 </p>
 
 ## Installation
-<img src="https://github.com/OpenXAIProject/tutorials/blob/master/howtorun.gif"  width="800">
+<img src="https://github.com/OpenXAIProject/tutorials/blob/master/LRP-Time-Series/howtorun.gif"  width="800">
 
 **1. Fork & Clone** : Fork this project to your repository and clone to your work directory.
  
@@ -50,7 +50,7 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
 + scikit-learn (0.19.1)
 
 ## License
-[Apache License 2.0](https://github.com/OpenXAIProject/LRP-Time-Series/blob/master/LICENSE "Apache")
+[Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
 
 ## Contacts
 If you have any question, please contact Xie Qin(xieqin856@unist.ac.kr) and/or Sohee Cho(shcho@unist.ac.kr).
