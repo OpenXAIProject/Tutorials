@@ -4,7 +4,7 @@ LRP-Time-Series
 Python implementation of the LRP method that is a novel methodology for interpreting generic multilayer neural networks by decomposing the network classification decision into contributions of its input elements.
 
 ## Reference Code 
-Based on code by Eric (Beomsu) Kim [https://github.com/1202kbs](https://github.com/1202kbs)
+Based on code by Eric (Beomsu) Kim [https://github.com/1202kbs/Understanding-NN](https://github.com/1202kbs/Understanding-NN)
 
 ## Reference Paper 
 **"Explaining nonlinear classification decisions with deep taylor decomposition"**. Gregoire Montavon, Sebastian Bach, Alexander Binder, Wojciech Samek, and Klaus-Robert Muller (https://arxiv.org/abs/1512.02479)
