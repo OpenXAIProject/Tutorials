@@ -12,12 +12,11 @@ Based on code by [Denny Britz](https://github.com/dennybritz/nn-from-scratch/blo
 ## Result  
 This is a deep learning method to classify binary dataset. Our goal is to test how the LRP (more specifically deep Taylor Decomposition) can perform to depict the important time epochs and features from raw data. 
 <p align="center"> 
-<img src="https://github.com/OpenXAIProject/Basic-LRP/blob/master/result.jpg"  width="600">
+<img src="https://github.com/OpenXAIProject/Basic-LRP/blob/master/result.JPG"  width="600">
 </p>
 
 ## Dataset 
 We will use the generated dataset.
-
 
 ## Installation
 <img src="https://github.com/OpenXAIProject/tutorials/blob/master/LRP-Time-Series/howtorun.gif"  width="800">
@@ -26,7 +25,7 @@ We will use the generated dataset.
  
  ``` $ git clone https://github.com/OpenXAIProject/Basic-LRP.git ```
  
-**4. Run** : Run "Taylor decomposition for the explanation of non-linear classification desition.ipynb" or "Taylor decomposition for the explanation of non-linear classification desition.py"
+**2. Run** : Run "Taylor decomposition for the explanation of non-linear classification desition.ipynb" or "Taylor decomposition for the explanation of non-linear classification desition.py"
 
 ## Requirements 
 + tensorflow (1.9.0)
