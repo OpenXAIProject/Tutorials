@@ -12,14 +12,13 @@ Based on code by [Denny Britz](https://github.com/dennybritz/nn-from-scratch/blo
 ## Result  
 This is a deep learning method to classify binary dataset. Our goal is to test how the LRP (more specifically deep Taylor Decomposition) can perform to depict the important time epochs and features from raw data. 
 <p align="center"> 
-<img src="https://github.com/OpenXAIProject/Basic-LRP/blob/master/result.JPG"  width="600">
+<img src="https://github.com/OpenXAIProject/tutorials/blob/master/Basic-LRP/result.JPG"  width="800">
 </p>
 
 ## Dataset 
 We will use the generated dataset.
 
 ## Installation
-<img src="https://github.com/OpenXAIProject/tutorials/blob/master/LRP-Time-Series/howtorun.gif"  width="800">
 
 **1. Fork & Clone** : Fork this project to your repository and clone to your work directory.
  
