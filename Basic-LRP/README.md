@@ -1,7 +1,7 @@
 LRP method for the explanation of non-linear classification
 ==
 
-Python implementation of Taylor decomposition and simple LRP method for the explanation of non-linear classification desition.
+Python implementation of Taylor decomposition and simple LRP method for the explanation of non-linear classification decision.
 
 ## Reference Code 
 Based on code by [Denny Britz](https://github.com/dennybritz/nn-from-scratch/blob/master/nn-from-scratch.ipynb)
