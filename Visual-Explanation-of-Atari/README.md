@@ -1,7 +1,7 @@
 Visual-Explanation-of-Atari
 ==
 
-Tensorflow Implementation of Visualizing and Understanding Atari Agents that is a novel methodology for interpreting decision of agent trained under the reinforcement learning framework.
+Tensorflow Implementation of Visualizing and Understanding Atari Agents that is a novel methodology for interpreting decision of agent trained under the reinforcement learning framework. The original pytorch implemetation is in https://github.com/greydanus/visualize_atari.
 
 ## Reference paper
 **"Visualizing and Understanding Atari Agents"**. Sam Greydanus, Anurag Koul, Jonathan Dodge and Alan Fern (https://arxiv.org/abs/1711.00138)
