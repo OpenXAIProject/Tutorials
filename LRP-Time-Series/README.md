@@ -24,7 +24,7 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
 + In the code, cast the data set in a numpy array with shape (batch-size, sequence-len, n-channels) 
 + Batch-size: the # of examples training together 
 + Sequence-len: the length of sequence in time (128 steps here) 
-+ N-channels: the # of channels in the layer (# of channels in input is the # of measurements)ties: 
++ N-channels: the # of channels in the layer (# of channels in input is the # of measurements) ties: 
 + There are 6 classes of activities: walking, walking upstairs, walking downstairs, sitting standing, laying
 <p align="center"> 
 <img src="https://github.com/OpenXAIProject/tutorials/blob/master/LRP-Time-Series/model.jpg" width="600">
@@ -37,11 +37,11 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
  
  ``` $ git clone https://github.com/OpenXAIProject/LRP-Time-Series.git ```
  
-**2. Download Dataset** : Go to the UCI repository site and Download the "UCI HAR Dataset" 
+**2. Download Dataset** : Go to the `UCI` repository site and download the "UCI HAR Dataset" 
  
-**3. Change Directory** : Move the "UCI HAR Dataset" to your work directory. It must be in the same folder as "LRP_tutorial.ipynb".
+**3. Change Directory** : Move the "UCI HAR Dataset" to your work directory. It must be in the same folder as `LRP_tutorial.ipynb`.
 
-**4. Run** : Run "LRP_tutorial.ipynb" or "LRP_tutorial.py"
+**4. Run** : Run `LRP_tutorial.ipynb` or `LRP_tutorial.py`
 
 ## Requirements 
 + tensorflow (1.9.0)
@@ -53,16 +53,16 @@ https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartph
 [Apache License 2.0](https://github.com/OpenXAIProject/tutorials/blob/master/LICENSE "Apache")
 
 ## Contacts
-If you have any question, please contact Xie Qin(xieqin856@unist.ac.kr) and/or Sohee Cho(shcho@unist.ac.kr).
+If you have any question, please contact Xie Qin (xieqin856@unist.ac.kr) and/or Sohee Cho (shcho@unist.ac.kr).
 
 <br /> 
 <br />
 
 # XAI Project 
 
-**This work was supported by Institute for Information & Communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2017-0-01779, A machine learning and statistical inference framework for explainable artificial intelligence)**
+**This work was supported by Institute for Information & Communications Technology Promotion (IITP) grant funded by the Korea government (MSIT) (No.2017-0-01779, A machine learning and statistical inference framework for explainable artificial intelligence)**
 
-+ Project Name : A machine learning and statistical inference framework for explainable artificial intelligence(의사결정 이유를 설명할 수 있는 인간 수준의 학습·추론 프레임워크 개발)
++ Project Name : A machine learning and statistical inference framework for explainable artificial intelligence (의사결정 이유를 설명할 수 있는 인간 수준의 학습·추론 프레임워크 개발)
 
 + Managed by Ministry of Science and ICT/XAIC <img align="right" src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width=300px>
 
