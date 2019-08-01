@@ -37,5 +37,4 @@ If you have any question, please contact  Sohee Cho (shcho@unist.ac.kr).
 
 + Participated Affiliation : UNIST, Korea Univ., Yonsei Univ., KAIST, AItrics  
 
-+ Web Site : <http://openXai.org>
-
++ Web Site : <http://openXai.org
